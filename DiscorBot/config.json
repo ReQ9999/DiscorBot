@@ -1,0 +1,10 @@
+{
+	"token" : "nic",
+	"prefix" : "!",
+	"ownerid" : "nic",
+	"version" : "1.0 (ALPHA)",
+    "autor": "ReQ9999",
+    "scripts": {"start": "node bot.js"}
+	"color" : "#00FFFF",
+	"debug" : "false"
+}
